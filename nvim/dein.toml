@@ -1,2 +1,6 @@
 [[plugins]]
 repo = 'Shougo/dein.vim'
+
+# colorscheme
+[[plugins]]
+repo = 'cocopon/iceberg.vim'
